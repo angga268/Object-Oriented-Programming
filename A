@@ -1,0 +1,9 @@
+public class Session3{
+    public static void main(String[]args)throws Exception{
+        int maxLoop = 6;
+        
+        for(int a = 1; a <= 11; a += 2){
+            System.out.println(a+ " ");
+        }
+    }
+}
